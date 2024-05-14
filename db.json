@@ -1,9 +1,137 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "movies": [
+    {
+      "id": "2",
+      "title": "The Godfather",
+      "releaseYear": 1972,
+      "genre": "Crime",
+      "posterImg": "https://fakeimg.pl/220x310/ffff00"
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "releaseYear": 2008,
+      "genre": "Drama",
+      "posterImg": "https://fakeimg.pl/220x310/ff00ff"
+    },
+    {
+      "id": "4",
+      "title": "Pulp Fiction",
+      "releaseYear": 1994,
+      "genre": "Crime",
+      "posterImg": "https://fakeimg.pl/220x310/0000ff"
+    },
+    {
+      "id": "5",
+      "title": "Forrest Gump",
+      "releaseYear": 1994,
+      "genre": "Drama",
+      "posterImg": "https://fakeimg.pl/220x310/ff00ff"
+    },
+    {
+      "id": "6",
+      "title": "Inception",
+      "releaseYear": 2010,
+      "genre": "Adventure",
+      "posterImg": "https://fakeimg.pl/220x310/f8f8f8"
+    },
+    {
+      "id": "7",
+      "title": "The Matrix",
+      "releaseYear": 1999,
+      "genre": "Action",
+      "posterImg": "https://fakeimg.pl/220x310/f6f6f6"
+    },
+    {
+      "id": "8",
+      "title": "The Lord of the Rings: The Return of the King",
+      "releaseYear": 2003,
+      "genre": "Adventure",
+      "posterImg": "https://fakeimg.pl/220x310/ff00ff"
+    },
+    {
+      "id": "9",
+      "title": "The Dark Knight Rises",
+      "releaseYear": 2012,
+      "genre": "Action",
+      "posterImg": "https://fakeimg.pl/220x310/f6f6f6"
+    },
+    {
+      "id": "10",
+      "title": "Interstellar",
+      "releaseYear": 2014,
+      "genre": "Adventure",
+      "posterImg": "https://fakeimg.pl/220x310/0000ff"
+    },
+    {
+      "id": "11",
+      "title": "Fight Club",
+      "releaseYear": 1999,
+      "genre": "Drama",
+      "posterImg": "https://fakeimg.pl/220x310/ff00ff"
+    },
+    {
+      "id": "12",
+      "title": "Gladiator",
+      "releaseYear": 2000,
+      "genre": "Action",
+      "posterImg": "https://fakeimg.pl/220x310/f8f8f8"
+    },
+    {
+      "id": "13",
+      "title": "The Lord of the Rings: The Two Towers",
+      "releaseYear": 2002,
+      "genre": "Drama",
+      "posterImg": "https://fakeimg.pl/220x310/f6f6f6"
+    },
+    {
+      "id": "14",
+      "title": "The Silence of the Lambs",
+      "releaseYear": 1991,
+      "genre": "Thriller",
+      "posterImg": "https://fakeimg.pl/220x310/0000ff"
+    },
+    {
+      "id": "15",
+      "title": "The Departed",
+      "releaseYear": 2006,
+      "genre": "Crime",
+      "posterImg": "https://fakeimg.pl/220x310/00ff00"
+    },
+    {
+      "id": "16",
+      "title": "Saving Private Ryan",
+      "releaseYear": 1998,
+      "genre": "War",
+      "posterImg": "https://fakeimg.pl/220x310/ff0000"
+    },
+    {
+      "id": "17",
+      "title": "The Prestige",
+      "releaseYear": 2006,
+      "genre": "Drama",
+      "posterImg": "https://fakeimg.pl/220x310/0000ff"
+    },
+    {
+      "id": "18",
+      "title": "Glory",
+      "releaseYear": 1989,
+      "genre": "Drama",
+      "posterImg": "https://fakeimg.pl/220x310/00ff00"
+    },
+    {
+      "id": "19",
+      "title": "The Avengers",
+      "releaseYear": 2012,
+      "genre": "Action",
+      "posterImg": "https://fakeimg.pl/220x310/ff0000"
+    },
+    {
+      "id": "20",
+      "title": "The Lion King",
+      "releaseYear": 1994,
+      "genre": "Animation",
+      "posterImg": "https://fakeimg.pl/220x310/0000ff"
+    }
+  ]
 }
